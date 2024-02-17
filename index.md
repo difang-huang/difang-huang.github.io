@@ -2,49 +2,50 @@
 layout: homepage
 ---
 
-## About Me
+**Welcome to my homepage!**
+- My recent research focuses on examining the human-algorithm connection through the application of economic and machine learning methodologies.
+- [Google Scholar](https://scholar.google.com/citations?user=CZ61snQAAAAJ&hl=en&oi=ao) // [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
-I am a Ph.D. student at ...
+**Main Publications**
+- [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao and Chen Lin)
+  - **Management Science**, Special Issue on The Human-Algorithm Connection, 2024+.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239)] [[Internet Appendix](https://drive.google.com/file/d/1Yaf4x2YbWzlTHI7Mo__xq9jlml1OgyYI/view?usp=sharing)]
+- [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w) (w. Zhengyang Bao)
+  - **Nature Human Behaviour**, 2022, 6(4): 478–479.
+  -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
+  - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
+- [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430) (w. Zhengyang Bao)
+  - **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320–2355.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)]
+  - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] [[JFQA High Impact Articles](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/jfqa-high-impact-articles?utm_source=hootsuite&amp;utm_medium=Twitter&amp;utm_term=JFQA%20high%20impact%20-%20June%202019&amp;utm_content=JFQA%20high%20impact%20-%20June%202019&amp;utm_campaign=JFQA%20high%20impact%20-%20June%202019)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina](http://voxchina.org/show-3-241.html)] 
 
-## Research Interests
+**Other Publications**
+- [How Did Small Business Respond to Unexpected Shocks? Evidence from a Natural Experiment in China](https://doi.org/10.1016/j.jcorpfin.2023.102528) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
+  -  **Journal of Corporate Finance**, 2024+.
+  -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677)] [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/01/10/how-a-managers-biases-influence-their-firms-response-to-shocks/)]
+- [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
+  - **Journal of Economic Behavior and Organization**, 2024+. 
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
+- [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effect](https://onlinelibrary.wiley.com/doi/10.1111/fima.12430) (w. Muzi Chen and Boyao Wu)
+  - **Financial Management**, 2023, 52: 543–572.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596)] [[Internet Appendix](https://drive.google.com/file/d/1A4l217LoTxaGwZRPFHTgodUgbGNhmRYB/view?usp=sharing)]
+- [Cross-Sectional Uncertainty and Expected Stock Returns](https://www.sciencedirect.com/science/article/abs/pii/S092753982300035X) (w. Deshui Yu)
+  - **Journal of Empirical Finance**, 2023, 72: 321-340.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264)] [[Internet Appendix](https://drive.google.com/file/d/1qXQaJqHFTv_A-f5Fd8s0S3Dq-CyUIG6B/view?usp=share_link)]
+- [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://doi.org/10.1016/j.jempfin.2023.02.004) (w. Li Chen and Deshui Yu)
+  - **Journal of Empirical Finance**, 2023, 72: 36-53.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
+- [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) (w. Yubin Li, Xinjie Wang, and Zhaodong (Ken) Zhong)
+  - **Financial Management**, 2022, 51: 143–167.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)] [[Replication Files](https://github.com/difang-huang/fomc-cycle)]
+- [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59)
+  - **Covid Economics**, 2020, 59: 118-148. 
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+**Code and Data**
+- Github [repository](https://github.com/difang-huang?tab=repositories), includes
+  -  Data and program used in published papers;
+  -  Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
 
-## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-## Publications
-
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
