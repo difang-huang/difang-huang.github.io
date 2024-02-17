@@ -21,7 +21,7 @@ layout: homepage
 
 **Other Publications**
 - [How Did Small Business Respond to Unexpected Shocks? Evidence from a Natural Experiment in China](https://doi.org/10.1016/j.jcorpfin.2023.102528) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
-  -  **Journal of Corporate Finance**, 2024+.
+  -  **Journal of Corporate Finance**, 2024, 84: 102528.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677)] [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/01/10/how-a-managers-biases-influence-their-firms-response-to-shocks/)]
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
   - **Journal of Economic Behavior and Organization**, 2024+. 
