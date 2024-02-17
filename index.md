@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 **Welcome to my homepage!**
-- My research focuses on experimental and behavioral economics and finance, with special focuses on examining the human-algorithm connection through the application of economic and machine learning methodologies.
-- Topics: AI, FinTech, and DEI (Diversity, Equity, and Inclusion).
+- My research focuses on experimental and behavioral economics and finance, with a special focus on examining the human-algorithm connection through the application of economic and machine learning methodologies.
+- Topics: AI, Financial institutions, and DEI (Diversity, Equity, and Inclusion).
 - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 **Main Publications**
