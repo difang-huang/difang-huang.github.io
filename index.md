@@ -6,7 +6,7 @@ layout: homepage
 - My research focuses on behavioral and experimental economics and finance, with a special interest on examining the human-algorithm connection through the application of economic and machine learning methodologies.
 - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
-**Main Publications**
+**Representative Publications**
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao and Chen Lin)
   - **Management Science**, Special Issue on The Human-Algorithm Connection, 2024+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239)] [[Internet Appendix](https://drive.google.com/file/d/1Yaf4x2YbWzlTHI7Mo__xq9jlml1OgyYI/view?usp=sharing)]
@@ -21,7 +21,6 @@ layout: homepage
   - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] [[JFQA High Impact Articles](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/jfqa-high-impact-articles?utm_source=hootsuite&amp;utm_medium=Twitter&amp;utm_term=JFQA%20high%20impact%20-%20June%202019&amp;utm_content=JFQA%20high%20impact%20-%20June%202019&amp;utm_campaign=JFQA%20high%20impact%20-%20June%202019)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina Article](http://voxchina.org/show-3-241.html)] [[VoxChina Video](https://www.bilibili.com/video/BV19W4y1E7wb/?share_source=copy_web&vd_source=6fe0b780aebbbf34e61336bcabb5353a)]
 
 **Other Publications**
-
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
   - **Journal of Economic Behavior and Organization**, 2024+. 
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
