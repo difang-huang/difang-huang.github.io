@@ -39,6 +39,8 @@ layout: homepage
 - [Impact of lockdown and government subsidies on rural households at early COVID-19 pandemic in China](https://www.emerald.com/insight/content/doi/10.1108/CAER-12-2021-0239/full/html) (w. Muzi Chen, Haoyu Gao, Nan Li, and Xiaoguang Yang)
   - **China Agricultural Economic Review**, 2023, 15(1): 109-133.
   - [[Research Square](https://www.researchsquare.com/article/rs-2290835/v1)] [[Survey](https://drive.google.com/file/d/1iDa2jChZVco6E6qco15R788VK6hqAMq4/view?usp=drive_link)]
+- [Forecasting dividend growth: The role of adjusted earnings yield](https://www.sciencedirect.com/science/article/pii/S0264999322004254)  (w. Li Chen, Luyao Li, and Deshui Yu)
+  - **Economic Modelling**, 2023, 120: 106188.
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) (w. Yubin Li, Xinjie Wang, and Zhaodong (Ken) Zhong)
   - **Financial Management**, 2022, 51: 143-167.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)] [[Replication Files](https://github.com/difang-huang/fomc-cycle)]
