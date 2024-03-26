@@ -22,7 +22,7 @@ layout: homepage
 
 **Other Publications**
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
-  - **Journal of Economic Behavior and Organization**, 2024+. 
+  - **Journal of Economic Behavior and Organization**, 2024, 224: 94-109.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
 - [How Did Small Business Respond to Unexpected Shocks? Evidence from a Natural Experiment in China](https://doi.org/10.1016/j.jcorpfin.2023.102528) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
   -  **Journal of Corporate Finance**, 2024, 84: 102528.
