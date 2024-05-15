@@ -6,8 +6,7 @@ layout: homepage
 - My research focuses on behavioral and experimental economics and finance, with a special interest on examining the human-algorithm connection through the application of economic and machine learning methodologies.
 - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
-**Education**
-- Ph.D., Monash University, 2018-2022.
+**Education**- Ph.D., Monash University, 2018-2022.
 - M.Phil, Swiss Finance Institute, 2015-2017.
 
 **Representative Publications**
