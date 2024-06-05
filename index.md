@@ -14,16 +14,13 @@ layout: homepage
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao and Chen Lin)
   - **Management Science**, Special Issue on The Human-Algorithm Connection, 2024+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239)] [[Internet Appendix](https://drive.google.com/file/d/1Yaf4x2YbWzlTHI7Mo__xq9jlml1OgyYI/view?usp=sharing)]
-  - [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/03/06/ai-teaching-can-help-reduce-gender-performance-gaps-in-education/)] [[VoxDev](https://voxdev.org/topic/education/improving-learning-efficacy-and-equality-ai-training)]
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w) (w. Zhengyang Bao)
   - **Nature Human Behaviour**, 2022, 6(4): 478-479.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
-  - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
 - [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430) (w. Zhengyang Bao)
   - **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320-2355.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)]
-  - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] [[JFQA High Impact Articles](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/jfqa-high-impact-articles?utm_source=hootsuite&amp;utm_medium=Twitter&amp;utm_term=JFQA%20high%20impact%20-%20June%202019&amp;utm_content=JFQA%20high%20impact%20-%20June%202019&amp;utm_campaign=JFQA%20high%20impact%20-%20June%202019)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina Article](http://voxchina.org/show-3-241.html)] [[VoxChina Video](https://www.bilibili.com/video/BV19W4y1E7wb/?share_source=copy_web&vd_source=6fe0b780aebbbf34e61336bcabb5353a)]
-
+    
 **Other Publications**
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
   - **Journal of Economic Behavior and Organization**, 2024, 224: 94-109.
