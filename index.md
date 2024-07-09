@@ -6,9 +6,8 @@ layout: homepage
 - My research focuses on behavioral and experimental economics and finance, with a special interest on examining the human-algorithm connection through the application of economic and machine learning methodologies.
 - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
-**Education**
-- Ph.D. in Econometrics and Business Statistics, Monash University, 2018-2022.
-- M.Phil. in Finance, Swiss Finance Institute, 2015-2017.
+**Employment**
+- Research Assistant Professor, University of Hong Kong, 2022-.
 
 **Representative Publications**
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao and Chen Lin)
