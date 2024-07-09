@@ -7,7 +7,7 @@ layout: homepage
 - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 **Employment**
-- Research Assistant Professor, University of Hong Kong, 2022-.
+- Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-.
 
 **Representative Publications**
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao and Chen Lin)
