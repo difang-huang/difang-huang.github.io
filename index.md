@@ -55,6 +55,9 @@ layout: homepage
   - **Covid Economics**, 2020, 59: 118-148. 
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
 
+**Openings**
+Contact me if you would like to explore the possibility of RA, pre-doc, & post-doc.
+
 **Code and Data**
 - Github [repository](https://github.com/difang-huang?tab=repositories), includes
   -  Data and program used in published papers;
