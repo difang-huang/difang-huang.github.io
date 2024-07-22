@@ -57,7 +57,9 @@ layout: homepage
 
 **Openings**
 - Contact me if you would like to explore the possibility of RA & post-doc.
-- Placements of RAs: PhD in Finance @ CityU HK, HKU (2024).
+- Placements of RAs:
+  - PhD in Finance @ CityU HK (2024)
+  - PhD in Finance @ HKU (2024)
 
 **Code and Data**
 - Github [repository](https://github.com/difang-huang?tab=repositories), includes
