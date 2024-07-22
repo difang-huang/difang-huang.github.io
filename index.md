@@ -56,7 +56,8 @@ layout: homepage
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
 
 **Openings**
-Contact me if you would like to explore the possibility of RA, pre-doc, & post-doc.
+- Contact me if you would like to explore the possibility of RA & post-doc.
+- Placements of RAs: PhD in Finance @ CityU HK, HKU (2024).
 
 **Code and Data**
 - Github [repository](https://github.com/difang-huang?tab=repositories), includes
