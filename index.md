@@ -26,6 +26,11 @@ layout: homepage
   - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] [[JFQA High Impact Articles](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/jfqa-high-impact-articles?utm_source=hootsuite&amp;utm_medium=Twitter&amp;utm_term=JFQA%20high%20impact%20-%20June%202019&amp;utm_content=JFQA%20high%20impact%20-%20June%202019&amp;utm_campaign=JFQA%20high%20impact%20-%20June%202019)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina Article](http://voxchina.org/show-3-241.html)] [[VoxChina Video](https://www.bilibili.com/video/BV19W4y1E7wb/?share_source=copy_web&vd_source=6fe0b780aebbbf34e61336bcabb5353a)]
 
 **Other Publications**
+- [Estimating the Impact of Social Distance Policy in Mitigating COVID-19 Spread with Factor-Based Imputation Approach]() (w. Ying Liang, Boyao Wu, and Yanyi Ye)
+  - **Empirical Economics**, 2024+.
+  - Previously circulated as [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59), **Covid Economics**, 2020, 59: 118-148.
+  - [[arXiv](https://arxiv.org/abs/2405.12180)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
+
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
   - **Journal of Economic Behavior and Organization**, 2024, 224: 94-109.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
@@ -52,9 +57,6 @@ layout: homepage
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)] [[Replication Files](https://github.com/difang-huang/fomc-cycle)]
 - [Dynamic Correlation of Market Connectivity, Risk Spillover and Abnormal Volatility in Stock Price](https://www.sciencedirect.com/science/article/abs/pii/S0378437121007792) (w. Muzi Chen, Li Nan, Boyao Wu, and Lifeng Zheng).
   - **Physica A: Statistical Mechanics and its Applications**, 2022, 587: 126506.
-- [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59)
-  - **Covid Economics**, 2020, 59: 118-148. 
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
 
 **Openings**
 - Contact me if you would like to explore the possibility of RA & post-doc in the 2025-2026 cohort.
