@@ -57,6 +57,7 @@ layout: homepage
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)] [[Replication Files](https://github.com/difang-huang/fomc-cycle)]
 - [Dynamic Correlation of Market Connectivity, Risk Spillover and Abnormal Volatility in Stock Price](https://www.sciencedirect.com/science/article/abs/pii/S0378437121007792) (w. Muzi Chen, Li Nan, Boyao Wu, and Lifeng Zheng).
   - **Physica A: Statistical Mechanics and its Applications**, 2022, 587: 126506.
+  - [[arXiv](https://arxiv.org/abs/2403.19363)]
 
 **Openings**
 - Contact me if you would like to explore the possibility of RA & post-doc in the 2025-2026 cohort.
