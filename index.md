@@ -28,7 +28,7 @@ layout: homepage
 **Other Publications**
 - [Estimating the Impact of Social Distance Policy in Mitigating COVID-19 Spread with Factor-Based Imputation Approach]() (w. Ying Liang, Boyao Wu, and Yanyi Ye)
   - **Empirical Economics**, 2024+.
-  - [[arXiv](https://arxiv.org/abs/2405.12180)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
+  - [[arXiv](https://arxiv.org/abs/2405.12180)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] 
   - Previous working paper circulated as [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59), **Covid Economics**, 2020, 59: 118-148.
 
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
@@ -57,7 +57,7 @@ layout: homepage
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)] [[Replication Files](https://github.com/difang-huang/fomc-cycle)]
 - [Dynamic Correlation of Market Connectivity, Risk Spillover and Abnormal Volatility in Stock Price](https://www.sciencedirect.com/science/article/abs/pii/S0378437121007792) (w. Muzi Chen, Li Nan, Boyao Wu, and Lifeng Zheng).
   - **Physica A: Statistical Mechanics and its Applications**, 2022, 587: 126506.
-  - [[arXiv](https://arxiv.org/abs/2403.19363)]
+  - [[arXiv](https://arxiv.org/abs/2403.19363)] [[Replication Files](https://github.com/difang-huang/dynamic-correlation)]
 
 **Openings**
 - Contact me if you would like to explore the possibility of RA & post-doc in the 2025-2026 cohort.
