@@ -9,7 +9,6 @@ layout: homepage
 **Position**
 - Assistant Professor, MADIS, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2024-.
 - Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
-- PhD Student, Monash Business School, Monash University, 2018-2022.
 
 **Representative Publications**
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao and Chen Lin)
