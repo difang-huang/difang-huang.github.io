@@ -3,7 +3,11 @@ layout: homepage
 ---
 
 **Welcome to my homepage!**
-- My research focuses on behavioral and experimental economics and finance, with a special interest on examining the human-algorithm connection through the application of economic and machine learning methodologies.
+- My research focuses on behavioral and experimental economics and finance, with special interest on
+  - Financial intermediation interactions
+  - Diversity, equity, and inclusion in economics
+  - Human-algorithm relationships in decision-making
+  - Eonometric methodologies in financial markets
 - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 **Position**
