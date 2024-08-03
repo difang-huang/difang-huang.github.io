@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 **Welcome to my homepage!**
-- My research focuses on behavioral and experimental economics and finance, with special interest with special interest in: (1) Financial intermediation dynamics; (2) Diversity, equity, and inclusion in economics; (3) Human-algorithm interaction in decision-making; (4) Econometric methods in financial markets.
+- My research focuses on behavioral and experimental economics and finance, with special interest in (1) dynamics of financial intermediation; (2) diversity, equity, and inclusion in economics; (3) human-algorithm interaction in decision-making; and (4) econometric methods in financial markets.
 - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 **Position**
