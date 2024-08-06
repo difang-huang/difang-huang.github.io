@@ -12,7 +12,6 @@ layout: homepage
 
 **Representative Publications**
 - [Effects of Lockdowns in Shaping Socioeconomic Behaviours]() (w. Zhengyang Bao, Jingcun Cao, Lata Gangadharan, and Chen Lin)
-  - **PNAS**, 2024+.
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao and Chen Lin)
   - **Management Science**, Special Issue on The Human-Algorithm Connection, 2024+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239)] [[Internet Appendix](https://drive.google.com/file/d/1Yaf4x2YbWzlTHI7Mo__xq9jlml1OgyYI/view?usp=sharing)]
