@@ -16,9 +16,6 @@ layout: homepage
   - **Management Science**, Special Issue on The Human-Algorithm Connection, 2024+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239)] [[Internet Appendix](https://drive.google.com/file/d/1Yaf4x2YbWzlTHI7Mo__xq9jlml1OgyYI/view?usp=sharing)]
   - [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/03/06/ai-teaching-can-help-reduce-gender-performance-gaps-in-education/)] [[VoxDev](https://voxdev.org/topic/education/improving-learning-efficacy-and-equality-ai-training)]
-- [How Did Small Business Respond to Unexpected Shocks? Evidence from a Natural Experiment in China](https://doi.org/10.1016/j.jcorpfin.2023.102528) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
-  -  **Journal of Corporate Finance**, 2024, 84: 102528.
-  -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677)] [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/01/10/how-a-managers-biases-influence-their-firms-response-to-shocks/)]
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w) (w. Zhengyang Bao)
   - **Nature Human Behaviour**, 2022, 6(4): 478-479.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
@@ -33,7 +30,9 @@ layout: homepage
   - **Empirical Economics**, 2024+.
   - [[arXiv](https://arxiv.org/abs/2405.12180)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)] 
   - Previous working paper circulated as [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59), **Covid Economics**, 2020, 59: 118-148.
-
+- [How Did Small Business Respond to Unexpected Shocks? Evidence from a Natural Experiment in China](https://doi.org/10.1016/j.jcorpfin.2023.102528) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
+  -  **Journal of Corporate Finance**, 2024, 84: 102528.
+  -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677)] [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/01/10/how-a-managers-biases-influence-their-firms-response-to-shocks/)]
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
   - **Journal of Economic Behavior and Organization**, 2024, 224: 94-109.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
