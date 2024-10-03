@@ -11,10 +11,10 @@ layout: homepage
 - Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
 
 **Representative Publications**
-- [Effects of Lockdowns in Shaping Socioeconomic Behaviours]() (w. Leo Bao, Jingcun Cao, Lata Gangadharan, and Chen Lin)
+- [Effects of lockdowns in shaping socioeconomic behaviors](https://doi.org/10.1073/pnas.2405934121) (w. Leo Bao, Jingcun Cao, Lata Gangadharan, and Chen Lin)
   - **Proceedings of the National Academy of Sciences (PNAS)**, 2024+.
   - [[SSRN]()] [[Replication Files](https://osf.io/a3ywv/)] 
-- [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Leo Bao and Chen Lin)
+- [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787) (w. Leo Bao and Chen Lin)
   - **Management Science**, Special Issue on The Human-Algorithm Connection, 2024+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239)] [[Internet Appendix](https://drive.google.com/file/d/1Yaf4x2YbWzlTHI7Mo__xq9jlml1OgyYI/view?usp=sharing)]
   - [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/03/06/ai-teaching-can-help-reduce-gender-performance-gaps-in-education/)] [[VoxDev](https://voxdev.org/topic/education/improving-learning-efficacy-and-equality-ai-training)]
@@ -30,7 +30,7 @@ layout: homepage
 **Other Publications**
 - [Measuring Gender and Racial Biases in Large Language Models]() (with Jiafu An, Chen Lin, and Mingzhu Tai)
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
-- [Estimating the Impact of Social Distance Policy in Mitigating COVID-19 Spread with Factor-Based Imputation Approach]() (w. Ying Liang, Boyao Wu, and Yanyi Ye)
+- [Estimating the Impact of Social Distance Policy in Mitigating COVID-19 Spread with Factor-Based Imputation Approach](https://doi.org/10.1007/s00181-024-02649-1) (w. Ying Liang, Boyao Wu, and Yanyi Ye)
   - **Empirical Economics**, 2024+.
   - [[arXiv](https://arxiv.org/abs/2405.12180)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)] 
   - Previous working paper circulated as [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59), **Covid Economics**, 2020, 59: 118-148.
@@ -72,3 +72,4 @@ layout: homepage
 - Github [repository](https://github.com/difang-huang?tab=repositories), includes
   -  Data and program used in published papers;
   -  Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
+![image](https://github.com/user-attachments/assets/d84ec0f9-abd3-43d3-8a31-570c2c42bcf8)
