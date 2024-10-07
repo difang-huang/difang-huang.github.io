@@ -72,4 +72,3 @@ layout: homepage
 - Github [repository](https://github.com/difang-huang?tab=repositories), includes
   -  Data and program used in published papers;
   -  Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
-![image](https://github.com/user-attachments/assets/d84ec0f9-abd3-43d3-8a31-570c2c42bcf8)
