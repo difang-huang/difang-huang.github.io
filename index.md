@@ -12,7 +12,7 @@ layout: homepage
 
 **Representative Publications**
 - [Effects of lockdowns in shaping socioeconomic behaviors](https://doi.org/10.1073/pnas.2405934121) (w. Leo Bao, Jingcun Cao, Lata Gangadharan, and Chen Lin)
-  - **Proceedings of the National Academy of Sciences (PNAS)**, 2024+.
+  - **Proceedings of the National Academy of Sciences (PNAS)**, 2024, 121(43): e2405934121.
   - [[SSRN]()] [[Replication Files](https://osf.io/a3ywv/)]
   - [[Mirage News](https://www.miragenews.com/research-unveils-lockdowns-impact-on-1340546/)] [[National Tribune](https://www.nationaltribune.com.au/new-study-reveals-the-effects-of-lockdowns-in-shaping-socioeconomic-behaviours/)] [[PHYS](https://phys.org/news/2024-10-reveals-effects-lockdowns-socioeconomic-behaviors.html)] 
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787) (w. Leo Bao and Chen Lin)
