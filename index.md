@@ -29,6 +29,8 @@ layout: homepage
   - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] [[JFQA High Impact Articles](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/jfqa-high-impact-articles?utm_source=hootsuite&amp;utm_medium=Twitter&amp;utm_term=JFQA%20high%20impact%20-%20June%202019&amp;utm_content=JFQA%20high%20impact%20-%20June%202019&amp;utm_campaign=JFQA%20high%20impact%20-%20June%202019)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina Article](http://voxchina.org/show-3-241.html)] [[VoxChina Video](https://www.bilibili.com/video/BV19W4y1E7wb/?share_source=copy_web&vd_source=6fe0b780aebbbf34e61336bcabb5353a)]
 
 **Other Publications**
+- [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Leo Bao)
+  - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
 - [Measuring Gender and Racial Biases in Large Language Models]() (with Jiafu An, Chen Lin, and Mingzhu Tai)
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
 - [Estimating the Impact of Social Distance Policy in Mitigating COVID-19 Spread with Factor-Based Imputation Approach](https://doi.org/10.1007/s00181-024-02649-1) (w. Ying Liang, Boyao Wu, and Yanyi Ye)
