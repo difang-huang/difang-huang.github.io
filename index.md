@@ -30,7 +30,8 @@ layout: homepage
 
 **Other Publications**
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Leo Bao)
-  - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
+  - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] 
 - [Measuring Gender and Racial Biases in Large Language Models]() (with Jiafu An, Chen Lin, and Mingzhu Tai)
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
 - [Estimating the Impact of Social Distance Policy in Mitigating COVID-19 Spread with Factor-Based Imputation Approach](https://doi.org/10.1007/s00181-024-02649-1) (w. Ying Liang, Boyao Wu, and Yanyi Ye)
