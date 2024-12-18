@@ -34,6 +34,9 @@ layout: homepage
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] 
 - [Measuring Gender and Racial Biases in Large Language Models]() (with Jiafu An, Chen Lin, and Mingzhu Tai)
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
+- [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555), joint with Muzi Chen, Yan Wang, and Xiaoguang Yang.
+  - **Financial Management**, 2024+.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555)] 
 - [Estimating the Impact of Social Distance Policy in Mitigating COVID-19 Spread with Factor-Based Imputation Approach](https://doi.org/10.1007/s00181-024-02649-1) (w. Ying Liang, Boyao Wu, and Yanyi Ye)
   - **Empirical Economics**, 2024+.
   - [[arXiv](https://arxiv.org/abs/2405.12180)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)] 
