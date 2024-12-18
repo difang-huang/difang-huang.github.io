@@ -32,7 +32,7 @@ layout: homepage
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Leo Bao)
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] 
-- [Measuring Gender and Racial Biases in Large Language Models]() (with Jiafu An, Chen Lin, and Mingzhu Tai)
+- [Measuring Gender and Racial Biases in Large Language Models]() (w. Jiafu An, Chen Lin, and Mingzhu Tai)
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
 - [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555), (w. Muzi Chen, Yan Wang, and Xiaoguang Yang)
   - **Financial Management**, 2024+.
