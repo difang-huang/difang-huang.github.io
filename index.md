@@ -36,6 +36,9 @@ layout: homepage
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
 - [Interlocking Directorates and Firm Performance: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022) (w. Muzi Chen, Guangxin Guo, Yan Wang, and Boyao Wu)
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022)] 
+- [Semiparametric Single-Index Estimation for Average Treatment Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564), joint with Jiti Gao and Tatsushi Oka.
+  - [[arXiv](https://arxiv.org/abs/2206.08503)]  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)] 
+  - [[Replication files](https://github.com/difang-huang/semi-ate)]
 - [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555) (w. Muzi Chen, Yan Wang, and Xiaoguang Yang)
   - **Financial Management**, 2024+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555)] 
