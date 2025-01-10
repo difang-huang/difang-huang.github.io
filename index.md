@@ -52,7 +52,7 @@ layout: homepage
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
   - **Journal of Economic Behavior and Organization**, 2024, 224: 94-109.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
-- [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effect](https://onlinelibrary.wiley.com/doi/10.1111/fima.12430) (w. Muzi Chen and Boyao Wu)
+- [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effect](https://doi.org/10.1111/fima.12430) (w. Muzi Chen and Boyao Wu)
   - **Financial Management**, 2023, 52: 543-572.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596)] [[Internet Appendix](https://drive.google.com/file/d/1A4l217LoTxaGwZRPFHTgodUgbGNhmRYB/view?usp=sharing)]
 - [Cross-Sectional Uncertainty and Expected Stock Returns](https://www.sciencedirect.com/science/article/abs/pii/S092753982300035X) (w. Deshui Yu)
