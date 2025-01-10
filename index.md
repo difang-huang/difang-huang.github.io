@@ -39,7 +39,7 @@ layout: homepage
 - [Semiparametric Single-Index Estimation for Average Treatment Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564), joint with Jiti Gao and Tatsushi Oka.
   - [[arXiv](https://arxiv.org/abs/2206.08503)]  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)] 
   - [[Replication files](https://github.com/difang-huang/semi-ate)]
-- [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555) (w. Muzi Chen, Yan Wang, and Xiaoguang Yang)
+- [Information Content of the Geography of Underwriters on Bond Market](https://doi.org/10.1111/fima.12495) (w. Muzi Chen, Yan Wang, and Xiaoguang Yang)
   - **Financial Management**, 2024+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555)] 
 - [Estimating the Impact of Social Distance Policy in Mitigating COVID-19 Spread with Factor-Based Imputation Approach](https://doi.org/10.1007/s00181-024-02649-1) (w. Ying Liang, Boyao Wu, and Yanyi Ye)
