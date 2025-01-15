@@ -35,7 +35,8 @@ layout: homepage
 - [Measuring Gender and Racial Biases in Large Language Models]() (w. Jiafu An, Chen Lin, and Mingzhu Tai)
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
 - [Interlocking Directorates and Firm Performance: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022) (w. Muzi Chen, Guangxin Guo, Yan Wang, and Boyao Wu)
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022)] 
+  - **China Economic Review**, 2025+.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022)] [[Replication files](https://github.com/difang-huang/semi-ate)]
 - [Semiparametric Single-Index Estimation for Average Treatment Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564) (w. Jiti Gao and Tatsushi Oka)
   - **Econometric Reviews**, 2025+.
   - [[arXiv](https://arxiv.org/abs/2206.08503)]  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)] [[Replication files](https://github.com/difang-huang/semi-ate)]
