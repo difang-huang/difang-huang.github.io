@@ -44,7 +44,7 @@ layout: homepage
   - **Financial Management**, 2025+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555)] 
 - [Estimating the Impact of Social Distance Policy in Mitigating COVID-19 Spread with Factor-Based Imputation Approach](https://doi.org/10.1007/s00181-024-02649-1) (w. Ying Liang, Boyao Wu, and Yanyi Ye)
-  - **Empirical Economics**, 2024+.
+  - **Empirical Economics**, 2025, 68: 585–601.
   - [[arXiv](https://arxiv.org/abs/2405.12180)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)] 
   - Previous working paper circulated as [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59), **Covid Economics**, 2020, 59: 118-148.
 - [How Did Small Business Respond to Unexpected Shocks? Evidence from a Natural Experiment in China](https://doi.org/10.1016/j.jcorpfin.2023.102528) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
