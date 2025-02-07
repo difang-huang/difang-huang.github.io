@@ -80,7 +80,9 @@ layout: homepage
 - Placements of RAs:
   - PhD in Finance @ CityU HK (2024)
   - PhD in Finance @ HKU (2024)
-
+  - PhD in Economics @ Penn State (2025)
+  - PhD in IIM @ HKU (2025)
+    
 **Code and Data**
 - Github [repository](https://github.com/difang-huang?tab=repositories), includes
   -  Data and program used in published papers;
