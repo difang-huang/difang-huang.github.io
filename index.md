@@ -11,8 +11,11 @@ layout: homepage
 - Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
 
 **Representative Publications**
+- [Measuring Gender and Racial Biases in Large Language Models]() (w. Jiafu An, Chen Lin, and Mingzhu Tai)
+  - **PNAS Nexus**, 2025+.
+  -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787) (w. Leo Bao and Chen Lin)
-  - **Management Science**, Special Issue on The Human-Algorithm Connection, 2024+.
+  - **Management Science**, Special Issue on The Human-Algorithm Connection, 2025+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239)] [[Internet Appendix](https://drive.google.com/file/d/1Yaf4x2YbWzlTHI7Mo__xq9jlml1OgyYI/view?usp=sharing)]
   - [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/03/06/ai-teaching-can-help-reduce-gender-performance-gaps-in-education/)] [[VoxDev](https://voxdev.org/topic/education/improving-learning-efficacy-and-equality-ai-training)]
 - [Effects of lockdowns in shaping socioeconomic behaviors](https://doi.org/10.1073/pnas.2405934121) (w. Leo Bao, Jingcun Cao, Lata Gangadharan, and Chen Lin)
@@ -35,9 +38,6 @@ layout: homepage
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Leo Bao)
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] 
-- [Measuring Gender and Racial Biases in Large Language Models]() (w. Jiafu An, Chen Lin, and Mingzhu Tai)
-  - **PNAS**, 2025+.
-  -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
 - [Interlocking Directorates and Firm Performance: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022) (w. Muzi Chen, Guangxin Guo, Yan Wang, and Boyao Wu)
   - **China Economic Review**, 2025+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022)] [[Replication files](https://github.com/difang-huang/semi-ate)]
