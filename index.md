@@ -36,6 +36,7 @@ layout: homepage
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] 
 - [Measuring Gender and Racial Biases in Large Language Models]() (w. Jiafu An, Chen Lin, and Mingzhu Tai)
+  - **PNAS**, 2025+.
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
 - [Interlocking Directorates and Firm Performance: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022) (w. Muzi Chen, Guangxin Guo, Yan Wang, and Boyao Wu)
   - **China Economic Review**, 2025+.
