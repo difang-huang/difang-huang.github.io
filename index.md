@@ -17,7 +17,7 @@ layout: homepage
   - [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/03/06/ai-teaching-can-help-reduce-gender-performance-gaps-in-education/)] [[VoxDev](https://voxdev.org/topic/education/improving-learning-efficacy-and-equality-ai-training)]
 - [Measuring Gender and Racial Biases in Large Language Models: Intersectional Evidence from Automated Resume Evaluation]() (w. Jiafu An, Chen Lin, and Mingzhu Tai)
   - **PNAS Nexus**, 2025+.
-  -  [[arXiv](https://arxiv.org/abs/2403.15281)] 
+  -  [[arXiv](https://arxiv.org/abs/2403.15281)] [[Replication Files](https://osf.io/4dahv/)]
 - [Effects of lockdowns in shaping socioeconomic behaviors](https://doi.org/10.1073/pnas.2405934121) (w. Leo Bao, Jingcun Cao, Lata Gangadharan, and Chen Lin)
   - **Proceedings of the National Academy of Sciences (PNAS)**, 2024, 121(43): e2405934121.
   - [[SSRN]()] [[Replication Files](https://osf.io/a3ywv/)]
@@ -35,6 +35,8 @@ layout: homepage
   - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] [[JFQA High Impact Articles](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/jfqa-high-impact-articles?utm_source=hootsuite&amp;utm_medium=Twitter&amp;utm_term=JFQA%20high%20impact%20-%20June%202019&amp;utm_content=JFQA%20high%20impact%20-%20June%202019&amp;utm_campaign=JFQA%20high%20impact%20-%20June%202019)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina Article](http://voxchina.org/show-3-241.html)] [[VoxChina Video](https://www.bilibili.com/video/BV19W4y1E7wb/?share_source=copy_web&vd_source=6fe0b780aebbbf34e61336bcabb5353a)]
 
 **Other Publications**
+- [Human versus Machine Creativity: A Large-Scale Comparison of The Divergent Thinking Ability in Humans and Large Language Models]() (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
+  - [[Replication Files](https://osf.io/a9v2t/)]
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Leo Bao)
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] 
