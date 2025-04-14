@@ -40,7 +40,7 @@ layout: homepage
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Leo Bao)
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] 
-- [Interlocking Directorates and Firm Performance: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022) (w. Muzi Chen, Guangxin Guo, Yan Wang, and Boyao Wu)
+- [Interlocking Directorates and Firm Performance: Evidence from China](https://doi.org/10.1016/j.chieco.2025.102412) (w. Muzi Chen, Guangxin Guo, Yan Wang, and Boyao Wu)
   - **China Economic Review**, 2025+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022)] [[Replication files](https://github.com/difang-huang/semi-ate)]
 - [Semiparametric Single-Index Estimation for Average Treatment Effects](https://dx.doi.org/10.1080/07474938.2025.2457561) (w. Jiti Gao and Tatsushi Oka)
