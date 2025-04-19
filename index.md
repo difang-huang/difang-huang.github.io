@@ -12,6 +12,7 @@ layout: homepage
 
 **Representative Publications**
 - [Human versus Machine Creativity: A Large-Scale Comparison of The Divergent Thinking Ability in Humans and Large Language Models]() (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
+  - **Nature Human Behaviour**, 2025+.
   - [[PsyArxiv](https://osf.io/preprints/psyarxiv/xeh64_v1)] [[Replication Files](https://osf.io/a9v2t/)]
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787) (w. Leo Bao and Chen Lin)
   - **Management Science**, Special Issue on The Human-Algorithm Connection, 2024+.
