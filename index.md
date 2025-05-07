@@ -21,6 +21,7 @@ layout: homepage
 - [Measuring Gender and Racial Biases in Large Language Models: Intersectional Evidence from Automated Resume Evaluation](https://doi.org/10.1093/pnasnexus/pgaf089) (w. Jiafu An, Chen Lin, and Mingzhu Tai)
   - **PNAS Nexus**, 2025, 4(3): pgaf089.
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] [[Replication Files](https://osf.io/4dahv/)]
+  -  [[VoxDev]()]
 - [Effects of lockdowns in shaping socioeconomic behaviors](https://doi.org/10.1073/pnas.2405934121) (w. Leo Bao, Jingcun Cao, Lata Gangadharan, and Chen Lin)
   - **Proceedings of the National Academy of Sciences (PNAS)**, 2024, 121(43): e2405934121.
   - [[SSRN]()] [[Replication Files](https://osf.io/a3ywv/)]
@@ -44,6 +45,7 @@ layout: homepage
 - [Interlocking Directorates and Firm Performance: Evidence from China](https://doi.org/10.1016/j.chieco.2025.102412) (w. Muzi Chen, Guangxin Guo, Yan Wang, and Boyao Wu)
   - **China Economic Review**, 2025, 91(6), 102412
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022)] [[Replication files](https://github.com/difang-huang/semi-ate)]
+  - [[CER WeChat](https://mp.weixin.qq.com/s/aknxB7ekb4VOz_Wduxb4ug)]
 - [Semiparametric Single-Index Estimation for Average Treatment Effects](https://dx.doi.org/10.1080/07474938.2025.2457561) (w. Jiti Gao and Tatsushi Oka)
   - **Econometric Reviews**, 2025+.
   - [[arXiv](https://arxiv.org/abs/2206.08503)]  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)] [[Replication files](https://github.com/difang-huang/semi-ate)]
