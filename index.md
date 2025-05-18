@@ -21,7 +21,7 @@ layout: homepage
 - [Measuring Gender and Racial Biases in Large Language Models: Intersectional Evidence from Automated Resume Evaluation](https://doi.org/10.1093/pnasnexus/pgaf089) (w. Jiafu An, Chen Lin, and Mingzhu Tai)
   - **PNAS Nexus**, 2025, 4(3): pgaf089.
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] [[Replication Files](https://osf.io/4dahv/)]
-  -  [[VoxDev]()]
+  -  [[VoxDev](https://voxdev.org/topic/technology-innovation/ai-hiring-tools-exhibit-complex-gender-and-racial-biases)]
 - [Effects of lockdowns in shaping socioeconomic behaviors](https://doi.org/10.1073/pnas.2405934121) (w. Leo Bao, Jingcun Cao, Lata Gangadharan, and Chen Lin)
   - **Proceedings of the National Academy of Sciences (PNAS)**, 2024, 121(43): e2405934121.
   - [[SSRN]()] [[Replication Files](https://osf.io/a3ywv/)]
