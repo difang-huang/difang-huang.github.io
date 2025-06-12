@@ -11,6 +11,8 @@ layout: homepage
 - Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
 
 **Representative Publications**
+- [A Tale of Two Banks: When Credit Loss Models Meet Economic Crises]() (w. Chen Chen)
+  - **Journal of Accounting Research**, 2025+.
 - [A Large-Scale Comparison of Divergent Thinking in Humans and Large Language Models]() (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
   - **Nature Human Behaviour**, 2025+.
   - [[PsyArxiv](https://osf.io/preprints/psyarxiv/xeh64_v1)] [[Replication Files](https://osf.io/a9v2t/)]
