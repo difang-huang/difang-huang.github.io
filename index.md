@@ -47,8 +47,7 @@ layout: homepage
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748)] 
 - [Interlocking Directorates and Firm Performance: Evidence from China](https://doi.org/10.1016/j.chieco.2025.102412) (w. Muzi Chen, Guangxin Guo, Yan Wang, and Boyao Wu)
   - **China Economic Review**, 2025, 91(6), 102412
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022)] [[Replication files](https://github.com/difang-huang/semi-ate)]
-  - [[CER WeChat](https://mp.weixin.qq.com/s/aknxB7ekb4VOz_Wduxb4ug)]
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022)] [[CER WeChat](https://mp.weixin.qq.com/s/aknxB7ekb4VOz_Wduxb4ug)]
 - [Semiparametric Single-Index Estimation for Average Treatment Effects](https://dx.doi.org/10.1080/07474938.2025.2457561) (w. Jiti Gao and Tatsushi Oka)
   - **Econometric Reviews**, 2025, 44(6): 843–85
   - [[arXiv](https://arxiv.org/abs/2206.08503)]  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)] [[Replication files](https://github.com/difang-huang/semi-ate)]
