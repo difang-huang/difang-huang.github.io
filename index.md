@@ -76,15 +76,9 @@ layout: homepage
 - [Impact of lockdown and government subsidies on rural households at early COVID-19 pandemic in China](https://www.emerald.com/insight/content/doi/10.1108/CAER-12-2021-0239/full/html) (w. Muzi Chen, Haoyu Gao, Nan Li, and Xiaoguang Yang)
   - **China Agricultural Economic Review**, 2023, 15(1): 109-133.
   - [[Research Square](https://www.researchsquare.com/article/rs-2290835/v1)] [[Survey](https://drive.google.com/file/d/1iDa2jChZVco6E6qco15R788VK6hqAMq4/view?usp=drive_link)]
-- [Forecasting dividend growth: The role of adjusted earnings yield](https://www.sciencedirect.com/science/article/pii/S0264999322004254)  (w. Li Chen, Luyao Li, and Deshui Yu)
-  - **Economic Modelling**, 2023, 120: 106188.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056)] [[Replication Files](https://github.com/difang-huang/smoothing-adjustment)]
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) (w. Yubin Li, Xinjie Wang, and Zhaodong (Ken) Zhong)
   - **Financial Management**, 2022, 51: 143-167.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)] [[Replication Files](https://github.com/difang-huang/fomc-cycle)]
-- [Dynamic Correlation of Market Connectivity, Risk Spillover and Abnormal Volatility in Stock Price](https://www.sciencedirect.com/science/article/abs/pii/S0378437121007792) (w. Muzi Chen, Li Nan, Boyao Wu, and Lifeng Zheng).
-  - **Physica A: Statistical Mechanics and its Applications**, 2022, 587: 126506.
-  - [[arXiv](https://arxiv.org/abs/2403.19363)] [[Replication Files](https://github.com/difang-huang/dynamic-correlation)]
 
 **Openings**
 - Contact me if you would like to explore the possibility of RA & post-doc in the 2025-2026 cohort.
