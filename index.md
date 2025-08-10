@@ -38,54 +38,12 @@ layout: homepage
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)]
   - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] [[JFQA High Impact Articles](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/jfqa-high-impact-articles?utm_source=hootsuite&amp;utm_medium=Twitter&amp;utm_term=JFQA%20high%20impact%20-%20June%202019&amp;utm_content=JFQA%20high%20impact%20-%20June%202019&amp;utm_campaign=JFQA%20high%20impact%20-%20June%202019)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina Article](http://voxchina.org/show-3-241.html)] [[VoxChina Video](https://www.bilibili.com/video/BV19W4y1E7wb/?share_source=copy_web&vd_source=6fe0b780aebbbf34e61336bcabb5353a)]
 
-**Other Publications**
-- [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Leo Bao)
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
-  - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] 
-- [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run]() (w. Deshui Yu and Mingtao Zhou)
-  - **Journal of Empirical Finance**, 2025+.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748)] 
-- [Interlocking Directorates and Firm Performance: Evidence from China](https://doi.org/10.1016/j.chieco.2025.102412) (w. Muzi Chen, Guangxin Guo, Yan Wang, and Boyao Wu)
-  - **China Economic Review**, 2025, 91(6), 102412
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022)] [[CER WeChat](https://mp.weixin.qq.com/s/aknxB7ekb4VOz_Wduxb4ug)]
-- [Semiparametric Single-Index Estimation for Average Treatment Effects](https://dx.doi.org/10.1080/07474938.2025.2457561) (w. Jiti Gao and Tatsushi Oka)
-  - **Econometric Reviews**, 2025, 44(6): 843–85
-  - [[arXiv](https://arxiv.org/abs/2206.08503)]  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)] [[Replication files](https://github.com/difang-huang/semi-ate)]
-- [Information Content of the Geography of Underwriters on Bond Market](https://doi.org/10.1111/fima.12495) (w. Muzi Chen, Yan Wang, and Xiaoguang Yang)
-  - **Financial Management**, 2025+.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555)] 
-- [Estimating the Impact of Social Distance Policy in Mitigating COVID-19 Spread with Factor-Based Imputation Approach](https://doi.org/10.1007/s00181-024-02649-1) (w. Ying Liang, Boyao Wu, and Yanyi Ye)
-  - **Empirical Economics**, 2025, 68: 585–601.
-  - [[arXiv](https://arxiv.org/abs/2405.12180)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)] 
-  - Previous working paper circulated as [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59), **Covid Economics**, 2020, 59: 118-148.
-- [How Did Small Business Respond to Unexpected Shocks? Evidence from a Natural Experiment in China](https://doi.org/10.1016/j.jcorpfin.2023.102528) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
-  -  **Journal of Corporate Finance**, 2024, 84: 102528.
-  -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677)] [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/01/10/how-a-managers-biases-influence-their-firms-response-to-shocks/)]
-- [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
-  - **Journal of Economic Behavior and Organization**, 2024, 224: 94-109.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
-- [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effect](https://doi.org/10.1111/fima.12430) (w. Muzi Chen and Boyao Wu)
-  - **Financial Management**, 2023, 52: 543-572.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596)] [[Internet Appendix](https://drive.google.com/file/d/1A4l217LoTxaGwZRPFHTgodUgbGNhmRYB/view?usp=sharing)]
-- [Cross-Sectional Uncertainty and Expected Stock Returns](https://www.sciencedirect.com/science/article/abs/pii/S092753982300035X) (w. Deshui Yu)
-  - **Journal of Empirical Finance**, 2023, 72: 321-340.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264)] [[Internet Appendix](https://drive.google.com/file/d/1qXQaJqHFTv_A-f5Fd8s0S3Dq-CyUIG6B/view?usp=share_link)]
-- [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://doi.org/10.1016/j.jempfin.2023.02.004) (w. Li Chen and Deshui Yu)
-  - **Journal of Empirical Finance**, 2023, 72: 36-53.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
-- [Impact of lockdown and government subsidies on rural households at early COVID-19 pandemic in China](https://www.emerald.com/insight/content/doi/10.1108/CAER-12-2021-0239/full/html) (w. Muzi Chen, Haoyu Gao, Nan Li, and Xiaoguang Yang)
-  - **China Agricultural Economic Review**, 2023, 15(1): 109-133.
-  - [[Research Square](https://www.researchsquare.com/article/rs-2290835/v1)] [[Survey](https://drive.google.com/file/d/1iDa2jChZVco6E6qco15R788VK6hqAMq4/view?usp=drive_link)]
-- [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) (w. Yubin Li, Xinjie Wang, and Zhaodong (Ken) Zhong)
-  - **Financial Management**, 2022, 51: 143-167.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)] [[Replication Files](https://github.com/difang-huang/fomc-cycle)]
-
 **Openings**
 - Contact me if you would like to explore the possibility of RA & post-doc in the 2025-2026 cohort.
 - Placements of RAs:
   - PhD in Finance @ CityU HK (2024)
   - PhD in Finance @ HKU (2024)
-  - PhD in Economics @ Penn State (2025)
+  - PhD in Economics @ Indiana (2025)
   - PhD in IIM @ HKU (2025)
     
 **Code and Data**
