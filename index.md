@@ -29,6 +29,9 @@ layout: homepage
   - **Proceedings of the National Academy of Sciences (PNAS)**, 2024, 121(43): e2405934121.
   - [[SSRN]()] [[Replication Files](https://osf.io/a3ywv/)]
   - [[Mirage News](https://www.miragenews.com/research-unveils-lockdowns-impact-on-1340546/)] [[National Tribune](https://www.nationaltribune.com.au/new-study-reveals-the-effects-of-lockdowns-in-shaping-socioeconomic-behaviours/)] [[PHYS](https://phys.org/news/2024-10-reveals-effects-lockdowns-socioeconomic-behaviors.html)] [[World Education News](https://www.findworldedu.com/2024/new-study-reveals-the-effects-of-lockdowns-in-shaping-socioeconomic-behaviours.html)]
+- [How Did Small Business Respond to Unexpected Shocks? Evidence from a Natural Experiment in China](https://doi.org/10.1016/j.jcorpfin.2023.102528) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
+  -  **Journal of Corporate Finance**, 2024, 84: 102528.
+  -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677)] [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/01/10/how-a-managers-biases-influence-their-firms-response-to-shocks/)]
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w) (w. Zhengyang Bao)
   - **Nature Human Behaviour**, 2022, 6(4): 478-479.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
