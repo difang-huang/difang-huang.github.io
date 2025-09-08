@@ -10,7 +10,7 @@ layout: homepage
 - Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2024-.
 - Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
 
-**Representative Publications**
+**Representative Publications (in chronological order)**
 - [A Tale of Two Banks: When Credit Loss Models Meet Economic Crises]() (w. Chen Chen)
   - **Journal of Accounting Research**, 2025+.
   - [[SSRN]()] [[Internet Appendix]()]
