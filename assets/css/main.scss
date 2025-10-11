@@ -1,13 +1,11 @@
 ---
 ---
 
-@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap");
-
-$global-font-family: "EB Garamond", "Garamond", "Times New Roman", Times, serif !default;
-$heading-font-family: "EB Garamond", "Garamond", "Times New Roman", Times, serif !default;
-$code-font-family: "JetBrains Mono", "Fira Code", "Source Code Pro", Menlo,
-  Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$global-font-family: Georgia, "Times New Roman", Times, serif !default;
+$heading-font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia,
+  "Times New Roman", Times, serif !default;
+$code-font-family: "Courier New", Courier, "Lucida Console", Monaco,
+  "Liberation Mono", monospace !default;
 
 @import "minimal-light";
 
