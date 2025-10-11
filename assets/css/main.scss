@@ -1,0 +1,39 @@
+---
+---
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+// Make sure all theme components see the new families.
+$global-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Helvetica, Arial, sans-serif !default;
+$heading-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Helvetica, Arial, sans-serif !default;
+$code-font-family: "JetBrains Mono", "Fira Code", "Source Code Pro", Menlo,
+  Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+
+@import "minimal-light";
+
+// Extra guard in case any selector hard-coded a font earlier.
+body,
+button,
+input,
+select,
+textarea {
+  font-family: $global-font-family !important;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font-family !important;
+  font-weight: 600;
+}
+
+strong,
+b {
+  font-weight: 600;
+}
