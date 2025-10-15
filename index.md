@@ -14,7 +14,7 @@ layout: homepage
 - [A Tale of Two Banks: When Credit Loss Models Meet Economic Crises]() (w. Chen Chen)
   - **Journal of Accounting Research**, 2025+.
   - [[SSRN]()] [[Internet Appendix]()]
-- [A Large-Scale Comparison of Divergent Thinking in Humans and Large Language Models]() (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
+- [A Large-Scale Comparison of Divergent Thinking in Humans and Large Language Models](https://doi.org/10.1038/s41562-025-02331-1) (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
   - **Nature Human Behaviour**, 2025+.
   - [[PsyArxiv](https://osf.io/preprints/psyarxiv/xeh64_v1)] [[Replication Files](https://osf.io/a9v2t/)]
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787) (w. Leo Bao and Chen Lin)
