@@ -4,7 +4,6 @@ layout: homepage
 
 **Welcome to my homepage!** 
 - My research focuses on behavioral and experimental economics and finance, with special interest in (1) the risk management of financial intermediation, and (2) human-algorithm interaction in decision-making.
-- [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 **Position**
 - Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2024-.
