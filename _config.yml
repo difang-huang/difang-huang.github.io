@@ -5,39 +5,32 @@ affiliation: Chinese Academy of Sciences
 email: difang (at) amss.ac.cn
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: difang huang, huang difang, difanghuang, huangdifang
 
 # Links 
-# If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=CZ61snQAAAAJ&hl=en&oi=ao
 github_link: https://github.com/difang-huang
+ssrn: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606 
+arxiv: https://arxiv.org/a/huang_d_1.html 
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images
 avatar: ./assets/img/avatar.jpg
 
 # Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: false
 
 # Auto Dark Mode
-# You may use the option to disable the automatic dark theme
 auto_dark_mode: true
 
 # Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Serif"
 
 # Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: 
+google_analytics:
 
 # Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
-# The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
