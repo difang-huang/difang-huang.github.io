@@ -35,20 +35,69 @@
     {% endif %}
 
     <style>
-      .social-icons a svg.icon-svg {
-        width: 1.5rem;
-        height: auto;
-        fill: currentColor;
-        vertical-align: middle;
+      .social-icons {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.55rem;
       }
-      .social-icons a .arxiv-text {
+
+      .social-icons a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        color: inherit;
+        text-decoration: none;
+        transition: transform 0.15s ease;
+      }
+
+      .social-icons a:hover,
+      .social-icons a:focus-visible {
+        transform: translateY(-1px);
+      }
+
+      .social-icons a i {
+        font-size: 1.28rem;
+      }
+
+      .social-icons a .brand-icon {
+        width: 1.95rem;
+        height: auto;
+        display: block;
+      }
+
+      .social-icons a .brand-text {
         font-family: "Helvetica Neue", Arial, sans-serif;
         font-weight: 700;
-        font-size: 0.85rem;
         letter-spacing: 0.05em;
-        text-transform: uppercase;
-        display: inline-block;
-        line-height: 1;
+        fill: #ffffff;
+      }
+
+      .social-icons a .ssrn-bg {
+        fill: #1a3c8c;
+        transition: fill 0.15s ease;
+      }
+
+      .social-icons a .arxiv-bg {
+        fill: #b31b1b;
+        transition: fill 0.15s ease;
+      }
+
+      .social-icons a:hover .ssrn-bg {
+        fill: #224da8;
+      }
+
+      .social-icons a:hover .arxiv-bg {
+        fill: #c22323;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .social-icons a .ssrn-bg {
+          fill: #3f66c5;
+        }
+        .social-icons a .arxiv-bg {
+          fill: #d64545;
+        }
       }
     </style>
   </head>
@@ -78,49 +127,52 @@
         <br>
         <div class="social-icons">
         {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+        <a class="icon-link" href="{{ site.google_scholar }}" aria-label="Google Scholar">
+          <i class="ai ai-google-scholar"></i>
         </a>
         {% endif %}
 
         {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+        <a class="icon-link" href="{{ site.cv_link }}" aria-label="Curriculum Vitae">
+          <i class="ai ai-cv"></i>
         </a>
         {% endif %}
 
         {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+        <a class="icon-link" href="{{ site.github_link }}" aria-label="GitHub">
           <i class="fab fa-github"></i>
         </a>
         {% endif %}
 
         {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
+        <a class="icon-link" href="{{ site.linkedin }}" aria-label="LinkedIn">
           <i class="fab fa-linkedin"></i>
         </a>
         {% endif %}
 
         {% if site.twitter %}
-        <a style-do="margin: 0 0 0 0" href="{{ site.twitter }}">
+        <a class="icon-link" href="{{ site.twitter }}" aria-label="X (formerly Twitter)">
           <i class="fab fa-x-twitter"></i>
         </a>
         {% endif %}
 
         {% if site.ssrn %}
-        <a style="margin: 0 5px 0 0" href="{{ site.ssrn }}" aria-label="SSRN Profile">
-          <svg class="icon-svg" viewBox="0 0 120 120" role="img" aria-hidden="true">
+        <a class="icon-link" href="{{ site.ssrn }}" aria-label="SSRN Profile">
+          <svg class="brand-icon" viewBox="0 0 120 40" role="img" aria-hidden="true">
             <title>SSRN</title>
-            <rect x="2" y="2" width="116" height="116" rx="18" ry="18" fill="currentColor" opacity="0.12"></rect>
-            <path d="M32 77c6 7 14 11 24 11 15 0 24-7 24-18 0-9-6-14-18-17l-8-2c-6-1-9-3-9-7 0-5 4-8 11-8 6 0 12 2 17 7l8-11c-6-6-15-9-25-9-15 0-25 8-25 20 0 11 7 17 19 19l8 2c7 2 10 4 10 8 0 5-5 8-12 8-8 0-14-3-19-9l-9 12z" fill="currentColor"></path>
-            <path d="M92 38h-10v44h10V38zM28 38H18v44h10V38z" fill="currentColor"></path>
+            <rect class="ssrn-bg" x="0" y="0" width="120" height="40" rx="6"></rect>
+            <text class="brand-text" x="60" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="22">SSRN</text>
           </svg>
         </a>
         {% endif %}
 
         {% if site.arxiv %}
-        <a style="margin: 0 5px 0 0" href="{{ site.arxiv }}" aria-label="arXiv Profile">
-          <span class="arxiv-text">arXiv</span>
+        <a class="icon-link" href="{{ site.arxiv }}" aria-label="arXiv Profile">
+          <svg class="brand-icon" viewBox="0 0 120 40" role="img" aria-hidden="true">
+            <title>arXiv</title>
+            <rect class="arxiv-bg" x="0" y="0" width="120" height="40" rx="6"></rect>
+            <text class="brand-text" x="60" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20" font-style="italic">arXiv</text>
+          </svg>
         </a>
         {% endif %}
         </div>
