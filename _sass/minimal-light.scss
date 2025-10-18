@@ -1,6 +1,18 @@
 .pub-row {
   display: flex; 
-  align-items: center;}
+  align-items: center;
+}
+
+.social-icons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1rem;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
 
 .social-icons a{
   display:inline-block;
@@ -12,7 +24,14 @@
   text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
-  margin-right:1rem}
+  margin-right:0;
+}
+
+@media (max-width: 600px) {
+  .social-icons {
+    justify-content: center;
+  }
+}
 
 @media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
 
