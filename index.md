@@ -41,7 +41,6 @@ layout: homepage
   - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)]  [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina Article](http://voxchina.org/show-3-241.html)] [[VoxChina Video](https://www.bilibili.com/video/BV19W4y1E7wb/?share_source=copy_web&vd_source=6fe0b780aebbbf34e61336bcabb5353a)]
 
 **Services**
-
-**Editorial Board Member**
-- **Journal of Business Research**
-- **China Finance Review International**
+- Editorial Board Member
+  - Journal of Business Research
+  - China Finance Review International
