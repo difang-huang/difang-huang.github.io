@@ -11,9 +11,9 @@ layout: homepage
 - Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
 
 **Representative Publications**
-- [A Tale of Two Banks: When Credit Loss Models Meet Economic Crises]() (w. Chen Chen)
+- [A Tale of Two Banks: When Credit Loss Models Meet Economic Crises](https://doi.org/10.1111/1475-679x.70030) (w. Chen Chen)
   - **Journal of Accounting Research**, 2025+.
-  - [[SSRN]()] [[Internet Appendix]()]
+  - [[SSRN](https://papers.ssrn.com/abstract=5719602)] [[Internet Appendix](https://drive.google.com/file/d/1iL9b49NxZgUgDrgjT6jbnotSUuiXIvdk/view?usp=sharing)]
 - [A Large-Scale Comparison of Divergent Thinking in Humans and Large Language Models](https://doi.org/10.1038/s41562-025-02331-1) (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
   - **Nature Human Behaviour**, 2025+.
   - [[PsyArxiv](https://osf.io/preprints/psyarxiv/xeh64_v1)] [[Replication Files](https://osf.io/a9v2t/)]
