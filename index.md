@@ -7,7 +7,7 @@ layout: homepage
 
 **Position**
 - Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2024-.
-- Visiting Assistant Professor, Centre for Financial Innovation and Development, University of Hong Kong, 2025-2026.
+- Visiting Assistant Professor, Centre for Financial Innovation and Development, University of Hong Kong, 2025-.
 - Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
 
 **Representative Publications**
