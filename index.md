@@ -11,6 +11,8 @@ layout: homepage
 - Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
 
 **Representative Publications**
+(1) Risk management of financial intermediation
+(2) Human-algorithm interaction in decision-making
 - [A Tale of Two Banks: When Credit Loss Models Meet Economic Crises](https://doi.org/10.1111/1475-679x.70030) (w. Chen Chen)
   - **Journal of Accounting Research**, 2025+.
   - [[SSRN](https://papers.ssrn.com/abstract=5719602)] [[Internet Appendix](https://drive.google.com/file/d/1iL9b49NxZgUgDrgjT6jbnotSUuiXIvdk/view?usp=sharing)]
