@@ -16,7 +16,7 @@ layout: homepage
 - [A Tale of Two Banks: When Credit Loss Models Meet Economic Crises](https://doi.org/10.1111/1475-679x.70030) (w. Chen Chen)
   - **Journal of Accounting Research**, 2025+.
   - [[SSRN](https://papers.ssrn.com/abstract=5719602)] [[Internet Appendix](https://drive.google.com/file/d/1iL9b49NxZgUgDrgjT6jbnotSUuiXIvdk/view?usp=sharing)]
-- [Gender Differences in Reactions to Fintech Loan Collection Mechanisms: A Large-Scale Natural Field Experiment]() (w. Leo Bao)
+- [Gender Differences in Reactions to Fintech Loan Collection Mechanisms: A Large-Scale Natural Field Experiment](https://doi.org/10.1016/j.jfi.2025.101184) (w. Leo Bao)
   - **Journal of Financial Intermediation**, 2025+.
   - [[SSRN](https://papers.ssrn.com/abstract=3641282)] [[Internet Appendix](https://drive.google.com/file/d/1iL9b49NxZgUgDrgjT6jbnotSUuiXIvdk/view?usp=sharing)]
 - [Effects of lockdowns in shaping socioeconomic behaviors](https://doi.org/10.1073/pnas.2405934121) (w. Leo Bao, Jingcun Cao, Lata Gangadharan, and Chen Lin)
