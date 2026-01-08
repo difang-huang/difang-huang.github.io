@@ -36,6 +36,7 @@ layout: homepage
 - [A Large-Scale Comparison of Divergent Thinking in Humans and Large Language Models](https://doi.org/10.1038/s41562-025-02331-1) (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
   - **Nature Human Behaviour**, 2025+.
   - [[PsyArxiv](https://osf.io/preprints/psyarxiv/xeh64_v1)] [[Replication Files](https://osf.io/a9v2t/)]
+  - [[ScienMag](https://scienmag.com/comparing-human-and-ai-divergent-creativity/)]
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787) (w. Leo Bao and Chen Lin)
   - **Management Science**, Special Issue on The Human-Algorithm Connection, 2024+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239)] [[Internet Appendix](https://drive.google.com/file/d/1Yaf4x2YbWzlTHI7Mo__xq9jlml1OgyYI/view?usp=sharing)]
@@ -43,7 +44,6 @@ layout: homepage
 - [Measuring Gender and Racial Biases in Large Language Models: Intersectional Evidence from Automated Resume Evaluation](https://doi.org/10.1093/pnasnexus/pgaf089) (w. Jiafu An, Chen Lin, and Mingzhu Tai)
   - **PNAS Nexus**, 2025, 4(3): pgaf089.
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] [[Replication Files](https://osf.io/4dahv/)] [[VoxDev](https://voxdev.org/topic/technology-innovation/ai-hiring-tools-exhibit-complex-gender-and-racial-biases)]
-
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w) (w. Zhengyang Bao)
   - **Nature Human Behaviour**, 2022, 6(4): 478-479.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
