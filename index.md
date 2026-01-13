@@ -38,7 +38,7 @@ layout: homepage
   - [[PsyArxiv](https://osf.io/preprints/psyarxiv/xeh64_v1)] [[Replication Files](https://osf.io/a9v2t/)]
   - [[ScienMag](https://scienmag.com/comparing-human-and-ai-divergent-creativity/)]
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787) (w. Leo Bao and Chen Lin)
-  - **Management Science**, Special Issue on The Human-Algorithm Connection, 2024+.
+  - **Management Science**, Special Issue on The Human-Algorithm Connection, 2026, 72 (1), 474-494.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239)] [[Internet Appendix](https://drive.google.com/file/d/1Yaf4x2YbWzlTHI7Mo__xq9jlml1OgyYI/view?usp=sharing)]
   - [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/03/06/ai-teaching-can-help-reduce-gender-performance-gaps-in-education/)] [[VoxDev](https://voxdev.org/topic/education/improving-learning-efficacy-and-equality-ai-training)]
 - [Measuring Gender and Racial Biases in Large Language Models: Intersectional Evidence from Automated Resume Evaluation](https://doi.org/10.1093/pnasnexus/pgaf089) (w. Jiafu An, Chen Lin, and Mingzhu Tai)
