@@ -5,10 +5,10 @@ layout: homepage
 **Welcome to my homepage!** 
 - My research focuses on behavioral and experimental economics and finance, with special interest in (1) the risk management of financial intermediation, and (2) human-algorithm interaction in decision-making.
 
-**Position**
-- Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2024-.
-- Visiting Assistant Professor, Centre for Financial Innovation and Development, University of Hong Kong, 2025-.
-- Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
+**Employment**
+- Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2024 - .
+- Visiting Assistant Professor, Centre for Financial Innovation and Development, University of Hong Kong, 2025 - .
+- Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022 - 2024.
 
 **Representative Publications**
 
@@ -50,3 +50,5 @@ layout: homepage
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
   - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
 
+**Professional Services**:
+- Editorial Board Member:  Journal of Business Research
