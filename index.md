@@ -51,4 +51,4 @@ layout: homepage
   - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
 
 **Professional Services**:
-- Editorial Board Member:  Journal of Business Research
+- Editorial Board Member:  Journal of Business Research(https://www.sciencedirect.com/journal/journal-of-business-research)
