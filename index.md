@@ -1,4 +1,4 @@
----
+<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/c7c6402b-bdd4-4c0f-85b7-3cc4cf148167" />---
 layout: homepage
 ---
 
@@ -51,4 +51,5 @@ layout: homepage
   - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
 
 **Professional Services**:
-- Editorial Board Member:  [Journal of Business Research](https://www.sciencedirect.com/journal/journal-of-business-research)
+- Editorial Board Member:  [Journal of Business Research](https://www.sciencedirect.com/journal/journal-of-business-research) / [China Finance Review International](https://www.emerald.com/cfri)
+
