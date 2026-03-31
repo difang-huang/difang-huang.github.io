@@ -34,7 +34,7 @@ layout: homepage
 
 (2) Human-algorithm interaction in decision-making
 - [A large-scale comparison of divergent creativity in humans and large language models](https://doi.org/10.1038/s41562-025-02331-1) (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
-  - **Nature Human Behaviour**, 2025+.
+  - **Nature Human Behaviour**, 2026, 10(3), 531–540.
   - [[PsyArxiv](https://osf.io/preprints/psyarxiv/xeh64_v1)] [[Replication Files](https://osf.io/a9v2t/)]
   - [[ScienMag](https://scienmag.com/comparing-human-and-ai-divergent-creativity/)]
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787) (w. Leo Bao and Chen Lin)
