@@ -36,12 +36,12 @@ layout: homepage
 - [A large-scale comparison of divergent creativity in humans and large language models](https://doi.org/10.1038/s41562-025-02331-1) (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
   - **Nature Human Behaviour**, 2026, 10(3), 531–540.
   - [[PsyArxiv](https://osf.io/preprints/psyarxiv/xeh64_v1)] [[Replication Files](https://osf.io/a9v2t/)]
-  - [[ScienMag](https://scienmag.com/comparing-human-and-ai-divergent-creativity/)]
+  - [[ScienMag](https://scienmag.com/comparing-human-and-ai-divergent-creativity/)] [[Psychology Today](https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202604/nobody-carries-ais-thinking-with-affection)]
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787) (w. Leo Bao and Chen Lin)
   - **Management Science**, 2026, 72(1), 474-494.
   - [**Special Issue on The Human-Algorithm Connection**](https://pubsonline.informs.org/toc/mnsc/72/1)
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239)] [[Internet Appendix](https://drive.google.com/file/d/1Yaf4x2YbWzlTHI7Mo__xq9jlml1OgyYI/view?usp=sharing)]
-  - [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/03/06/ai-teaching-can-help-reduce-gender-performance-gaps-in-education/)] [[VoxDev](https://voxdev.org/topic/education/improving-learning-efficacy-and-equality-ai-training)]
+  - [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/03/06/ai-teaching-can-help-reduce-gender-performance-gaps-in-education/)] [[The Engineer](https://www.theengineer.co.uk/content/opinion/ai-could-help-overcome-gender-bias-in-stem)] [[VoxDev](https://voxdev.org/topic/education/improving-learning-efficacy-and-equality-ai-training)]
 - [Measuring gender and racial biases in large language models: Intersectional evidence from automated resume evaluation](https://doi.org/10.1093/pnasnexus/pgaf089) (w. Jiafu An, Chen Lin, and Mingzhu Tai)
   - **PNAS Nexus**, 2025, 4(3): pgaf089.
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] [[Replication Files](https://osf.io/4dahv/)] [[VoxDev](https://voxdev.org/topic/technology-innovation/ai-hiring-tools-exhibit-complex-gender-and-racial-biases)]
