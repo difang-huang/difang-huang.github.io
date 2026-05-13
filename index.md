@@ -17,7 +17,7 @@ layout: homepage
   - **Journal of Accounting Research**, 2025+.
   - [[SSRN](https://papers.ssrn.com/abstract=5719602)] [[Internet Appendix](https://drive.google.com/file/d/1iL9b49NxZgUgDrgjT6jbnotSUuiXIvdk/view?usp=sharing)]
 - [Gender differences in reactions to loan collection mechanisms: A large-scale natural field experiment](https://doi.org/10.1016/j.jfi.2025.101184) (w. Leo Bao)
-  - **Journal of Financial Intermediation**, 2025+.
+  - **Journal of Financial Intermediation**, 2026, 67: 101184.
   - [[SSRN](https://papers.ssrn.com/abstract=3641282)] [[Internet Appendix](https://drive.google.com/file/d/1iL9b49NxZgUgDrgjT6jbnotSUuiXIvdk/view?usp=sharing)]
 - [Effects of lockdowns in shaping socioeconomic behaviors](https://doi.org/10.1073/pnas.2405934121) (w. Leo Bao, Jingcun Cao, Lata Gangadharan, and Chen Lin)
   - **Proceedings of the National Academy of Sciences (PNAS)**, 2024, 121(43): e2405934121.
