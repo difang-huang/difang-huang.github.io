@@ -49,10 +49,6 @@ layout: homepage
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
   - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
 
-(4) Financial econometrics
-
-
-
 **Professional Services**:
 - Editorial Board Member:  [Journal of Business Research](https://www.sciencedirect.com/journal/journal-of-business-research) / [China Finance Review International](https://www.emerald.com/cfri)
 
