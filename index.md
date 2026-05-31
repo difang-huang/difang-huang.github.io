@@ -44,10 +44,19 @@ layout: homepage
 - [Measuring gender and racial biases in large language models: Intersectional evidence from automated resume evaluation](https://doi.org/10.1093/pnasnexus/pgaf089) (w. Jiafu An, Chen Lin, and Mingzhu Tai)
   - **PNAS Nexus**, 2025, 4(3): pgaf089.
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] [[Replication Files](https://osf.io/4dahv/)] [[VoxDev](https://voxdev.org/topic/technology-innovation/ai-hiring-tools-exhibit-complex-gender-and-racial-biases)]
+
+(3) Science of science
+- [Gender-specific favoritism in science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
+  - **Journal of Economic Behavior & Organization**, 2024, 221: 94-109.
+  -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] 
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w) (w. Zhengyang Bao)
   - **Nature Human Behaviour**, 2022, 6(4): 478-479.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
   - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
+
+(4) Financial econometrics
+
+
 
 **Professional Services**:
 - Editorial Board Member:  [Journal of Business Research](https://www.sciencedirect.com/journal/journal-of-business-research) / [China Finance Review International](https://www.emerald.com/cfri)
