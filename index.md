@@ -13,7 +13,7 @@ layout: homepage
 
 (1) Risk management of financial intermediation
 - [A Tale of Two Banks: When Credit Loss Models Meet Economic Crises](https://doi.org/10.1111/1475-679x.70030) (w. Chen Chen)
-  - **Journal of Accounting Research**, 2026+.
+  - **Journal of Accounting Research**, 2026, 64: 1645-1684.
   - [[SSRN](https://papers.ssrn.com/abstract=5719602)] [[Internet Appendix](https://drive.google.com/file/d/1iL9b49NxZgUgDrgjT6jbnotSUuiXIvdk/view?usp=sharing)] [[VoxChina](https://voxchina.org/show-3-463.html)]
 - [Gender differences in reactions to loan collection mechanisms: A large-scale natural field experiment](https://doi.org/10.1016/j.jfi.2025.101184) (w. Leo Bao)
   - **Journal of Financial Intermediation**, 2026, 67: 101184.
