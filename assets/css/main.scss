@@ -1,12 +1,16 @@
 ---
 ---
 
-$global-font-family: "Garamond", "Apple Garamond", "EB Garamond", "Baskerville",
-  "Times New Roman", Times, serif !default;
-$heading-font-family: "Palatino Linotype", "Book Antiqua", Palatino,
-  "Garamond", "Apple Garamond", "EB Garamond", "Times New Roman", Times, serif !default;
+$global-font-family: "Inter", "Source Sans 3", "Source Sans Pro", -apple-system,
+  BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
+$heading-font-family: "Inter", "Source Sans 3", "Source Sans Pro", -apple-system,
+  BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
 $code-font-family: "Courier New", Courier, "Lucida Console", Monaco,
   "Liberation Mono", monospace !default;
+
+// Accent color palette
+$accent-color: #1a4f7a;
+$accent-hover: #1d6fa8;
 
 @import "minimal-light";
 
@@ -25,17 +29,76 @@ p {
   margin-bottom: 1.2em;
 }
 
-h1,
-h2,
-h3,
+// Clear visual hierarchy for headings
+h1 {
+  font-family: $heading-font-family !important;
+  font-size: 2rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.01em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-family: $heading-font-family !important;
+  font-size: 1.4rem !important;
+  font-weight: 600 !important;
+  color: $accent-color !important;
+  letter-spacing: 0em;
+  margin-top: 1.6em;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  font-family: $heading-font-family !important;
+  font-size: 1.15rem !important;
+  font-weight: 600 !important;
+  color: $accent-color !important;
+  letter-spacing: 0em;
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
+}
+
 h4,
 h5,
 h6 {
   font-family: $heading-font-family !important;
-  font-weight: 600;
-  letter-spacing: 0.02em;
-  margin-top: 1.8em;
-  margin-bottom: 0.6em;
+  font-weight: 600 !important;
+  color: $accent-color !important;
+  letter-spacing: 0em;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+}
+
+// Links: navy/teal accent with hover effect
+a {
+  color: $accent-color !important;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: $accent-hover !important;
+  text-decoration: underline;
+}
+
+// Dark mode overrides
+@media (prefers-color-scheme: dark) {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #3eb7f0 !important;
+  }
+
+  a {
+    color: #3eb7f0 !important;
+  }
+
+  a:hover {
+    color: #6dcef6 !important;
+  }
 }
 
 strong,
