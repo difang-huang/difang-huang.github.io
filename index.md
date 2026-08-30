@@ -49,10 +49,11 @@ layout: homepage
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
   - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
 
-**Grants**:
-- Principal Investigator, National Natural Science Foundation of China, Excellent Young Scientists Fund, RMB 2,000,000, 01/2027-12/2029.
-- Principal Investigator, National Natural Science Foundation of China, Young Scientists Fund, RMB 300,000, 01/2026-12/2028.
+**Grants**
+- Principal Investigator, National Natural Science Foundation of China, Excellent Young Scientists Fund, 01/2027-12/2029.
+- Principal Investigator, National Natural Science Foundation of China, Young Scientists Fund, 01/2026-12/2028.
+- Principal Investigator, Ministry of Science and Technology of China, International Talent Program, 01/2026-12/2028.
 
-**Professional Services**:
+**Professional Services**
 - Editorial Board Member:  [Journal of Business Research](https://www.sciencedirect.com/journal/journal-of-business-research) / [China Finance Review International](https://www.emerald.com/cfri)
 
