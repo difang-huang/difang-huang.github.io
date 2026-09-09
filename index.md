@@ -3,11 +3,10 @@ layout: homepage
 ---
 
 **Welcome to my homepage!** 
-- My research focuses on behavioral and experimental economics and finance, with special interest in (1) the risk management of financial intermediation, and (2) human-algorithm interaction in decision-making.
 
-**Employment**
-- Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2024-.
-- Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
+Difang Huang is an Assistant Professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. He studies a question that grows more urgent as financial systems are battered by sudden crises and remade by artificial intelligence: How does financial risk form, and how does it spread? 
+
+His research combines behavioral and experimental economics, causal inference, and AI to pursue this question along three lines. To trace the human roots of risk, he uses natural experiments and behavioral measurement to show how external shocks reshape people's trust, honesty, risk-taking, and expectations, and how those shifts in belief transmit into the real economy (PNAS, 2024; Journal of Financial Intermediation, 2026). To test when risk models break down, he examines the tools banks and fintech firms depend on, showing that expected-credit-loss rules can amplify procyclical credit contraction and that data-driven models trained in calm times turn structurally fragile once the environment shifts (Journal of Accounting Research, 2026; Journal of Financial and Quantitative Analysis, 2021). To map how humans and machines decide together, he builds behavioral frameworks that expose AI's distinctive biases, measure the limits of machine creativity, and identify who gains and who loses when people work alongside algorithms (Nature Human Behaviour, 2022, 2025; Management Science, 2026; PNAS Nexus, 2025).
 
 **Representative Publications**
 
