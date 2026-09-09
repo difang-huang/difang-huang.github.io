@@ -3,11 +3,8 @@ layout: homepage
 ---
 
 **Welcome to my homepage!** 
+- I am an assistant professor at Academy of Mathematics and Systems Science, Chinese Academy of Sciences and global affilate at HKU Jockey Club Enterprise Sustainability Global Research Institute. 
 - My research focuses on behavioral and experimental economics and finance, with special interest in (1) the risk management of financial intermediation, and (2) human-algorithm interaction in decision-making.
-
-**Employment**
-- Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2024-.
-- Research Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2022-2024.
 
 **Representative Publications**
 
