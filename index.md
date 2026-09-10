@@ -29,6 +29,8 @@ layout: homepage
   - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)]  [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina Article](http://voxchina.org/show-3-241.html)] [[VoxChina Video](https://www.bilibili.com/video/BV19W4y1E7wb/?share_source=copy_web&vd_source=6fe0b780aebbbf34e61336bcabb5353a)]
 
 (2) Human-algorithm interaction in decision-making
+- [“经济-社会-物理-信息”强耦合系统演化与治理]() (与杨晓光合作)
+  - **管理科学学报 (Journal of Management Science and Engineering)**
 - [信息-物理-社会系统与数智时代社会治理]() (与蔡世民，郝俊，李建平，刘志新，吕琳媛，王芳，王重阳，杨晓光，朱欣怡合作)
   - **中国科学：信息科学 (SCIENTIA SINICA Informationis)**
 - [A large-scale comparison of divergent creativity in humans and large language models](https://doi.org/10.1038/s41562-025-02331-1) (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
