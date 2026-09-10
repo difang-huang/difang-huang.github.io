@@ -30,9 +30,9 @@ layout: homepage
 
 (2) Human-algorithm interaction in decision-making
 - [“经济-社会-物理-信息”强耦合系统演化与治理]() (与杨晓光合作)
-  - **管理科学学报 (Journal of Management Science and Engineering)**
+  - **管理科学学报**
 - [信息-物理-社会系统与数智时代社会治理]() (与蔡世民，郝俊，李建平，刘志新，吕琳媛，王芳，王重阳，杨晓光，朱欣怡合作)
-  - **中国科学：信息科学 (SCIENTIA SINICA Informationis)**
+  - **中国科学：信息科学**
 - [A large-scale comparison of divergent creativity in humans and large language models](https://doi.org/10.1038/s41562-025-02331-1) (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
   - **Nature Human Behaviour**, 2026, 10(3), 531–540.
   - [[PsyArxiv](https://osf.io/preprints/psyarxiv/xeh64_v1)] [[Replication Files](https://osf.io/a9v2t/)]
