@@ -1,14 +1,32 @@
-on: push
+name: CI
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
 jobs:
   build:
+    name: Build site
     runs-on: ubuntu-latest
-    name: script/cibuild
+    env:
+      # Only the runtime group (Jekyll) is needed to verify the site builds.
+      # The theme's development gems (rubocop, html-proofer, w3c_validators) are
+      # legacy version pins that don't install on modern Ruby and are geared at
+      # theme development, not this content repo, so they are skipped here.
+      BUNDLE_WITHOUT: development
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-ruby@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
-      - name: build
-        run: script/bootstrap
-      - name: test
-        run: script/cibuild
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build --trace
