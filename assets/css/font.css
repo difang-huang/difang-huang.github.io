@@ -1,0 +1,40 @@
+/* Minimal Light theme base fonts (Latin) — kept as-is */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+/* Chinese (Song serif) — full-coverage fallback served by Google, so any CJK
+   character not in the size-matched subset below still renders in Noto Serif SC. */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500&display=swap');
+
+/* Size-matched Chinese: a small local subset of Noto Serif SC scaled to Crimson Pro.
+   Crimson Pro has a low x-height, so Han glyphs at 100% look oversized. size-adjust:88%
+   aligns Han height to ~1.38x the Latin cap-height for a balanced mixed-script line.
+   unicode-range restricts these faces to the shipped glyphs; anything else falls
+   through to the Google Noto Serif SC above. */
+@font-face {
+  font-family: 'Noto Serif SC Fit';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/NotoSerifSC-fit-400.woff2') format('woff2');
+  unicode-range: U+00B7,U+2014,U+2018-2019,U+201C-201D,U+2026,U+3000-3002,U+3008-3011,U+3014-3015,U+4E0E,U+4E16,U+4E2D,U+4EE3,U+4F1A,U+4F5C,U+4FCA,U+4FE1,U+5149,U+5218,U+5316,U+5408,U+5415,U+56FD,U+5A9B,U+5B66,U+5E73,U+5EFA,U+5F3A,U+5FD7,U+6021,U+606F,U+62A5,U+6570,U+65B0,U+65F6,U+6653,U+667A,U+6731,U+674E,U+6768,U+6B23,U+6C11,U+6CBB,U+6D4E,U+6F14,U+7269,U+738B,U+7406,U+7433,U+793E,U+79D1,U+7BA1,U+7CFB,U+7ECF,U+7EDF,U+8026,U+82B3,U+8521,U+90DD,U+91CD,U+9633,U+FF01,U+FF08-FF09,U+FF0C,U+FF1A-FF1B,U+FF1F;
+  size-adjust: 88%;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Serif SC Fit';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/NotoSerifSC-fit-500.woff2') format('woff2');
+  unicode-range: U+00B7,U+2014,U+2018-2019,U+201C-201D,U+2026,U+3000-3002,U+3008-3011,U+3014-3015,U+4E0E,U+4E16,U+4E2D,U+4EE3,U+4F1A,U+4F5C,U+4FCA,U+4FE1,U+5149,U+5218,U+5316,U+5408,U+5415,U+56FD,U+5A9B,U+5B66,U+5E73,U+5EFA,U+5F3A,U+5FD7,U+6021,U+606F,U+62A5,U+6570,U+65B0,U+65F6,U+6653,U+667A,U+6731,U+674E,U+6768,U+6B23,U+6C11,U+6CBB,U+6D4E,U+6F14,U+7269,U+738B,U+7406,U+7433,U+793E,U+79D1,U+7BA1,U+7CFB,U+7ECF,U+7EDF,U+8026,U+82B3,U+8521,U+90DD,U+91CD,U+9633,U+FF01,U+FF08-FF09,U+FF0C,U+FF1A-FF1B,U+FF1F;
+  size-adjust: 88%;
+  font-display: swap;
+}
+
+body {
+  background-color: #fff;
+  padding:0px;
+  font: 16.0px/1.5 'Crimson Pro', 'Noto Serif SC Fit', 'Noto Serif SC', serif;
+  color:#595959;
+  font-weight:400;
+  margin:0
+}
