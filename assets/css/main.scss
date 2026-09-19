@@ -8,6 +8,10 @@ $heading-font-family: "Palatino Linotype", "Book Antiqua", Palatino,
 $code-font-family: "Courier New", Courier, "Lucida Console", Monaco,
   "Liberation Mono", monospace !default;
 
+// Accent color palette
+$accent-color: #1a4f7a;
+$accent-hover: #1d6fa8;
+
 @import "minimal-light";
 
 body,
@@ -36,6 +40,45 @@ h6 {
   letter-spacing: 0.02em;
   margin-top: 1.8em;
   margin-bottom: 0.6em;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $accent-color !important;
+}
+
+// Links: navy/teal accent with hover effect
+a {
+  color: $accent-color !important;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: $accent-hover !important;
+  text-decoration: underline;
+}
+
+// Dark mode overrides
+@media (prefers-color-scheme: dark) {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #3eb7f0 !important;
+  }
+
+  a {
+    color: #3eb7f0 !important;
+  }
+
+  a:hover {
+    color: #6dcef6 !important;
+  }
 }
 
 strong,
