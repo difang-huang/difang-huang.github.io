@@ -1,9 +1,9 @@
----
+<img width="1572" height="194" alt="image" src="https://github.com/user-attachments/assets/5bb6ee68-17b3-46eb-b15c-67482ea0b6a9" />---
 layout: homepage
 ---
 
 **Welcome to my homepage!** 
-- I am an associate professor at Academy of Mathematics and Systems Science, Chinese Academy of Sciences and global affilate at HKU Jockey Club Enterprise Sustainability Global Research Institute. Before joining Chinese Academy of Sciences, I worked as research assistant professor at HKU under the supervision of Prof. Chen Lin.
+- I am an associate professor at Academy of Mathematics and Systems Science, Chinese Academy of Sciences and global affilate at HKU Jockey Club Enterprise Sustainability Global Research Institute. Before joining Chinese Academy of Sciences, I worked as research assistant professor at HKU under the supervision of Prof. Chen Lin and obtained my Ph.D. at Monash University.
 - My research focuses on behavioral and experimental economics and finance, with special interest in (1) the risk management of financial intermediation, and (2) human-algorithm interaction in decision-making.
 
 **Representative Publications**
