@@ -44,6 +44,7 @@ layout: homepage
   - [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/03/06/ai-teaching-can-help-reduce-gender-performance-gaps-in-education/)] [[The Engineer](https://www.theengineer.co.uk/content/opinion/ai-could-help-overcome-gender-bias-in-stem)] [[VoxDev](https://voxdev.org/topic/education/improving-learning-efficacy-and-equality-ai-training)]
 - [Measuring gender and racial biases in large language models: Intersectional evidence from automated resume evaluation](https://doi.org/10.1093/pnasnexus/pgaf089) (w. Jiafu An, Chen Lin, and Mingzhu Tai)
   - **PNAS Nexus**, 2025, 4(3): pgaf089.
+  - [**PNAS Nexus High-Impact Research**](https://academic.oup.com/pnasnexus/pages/high-impact-research-from-pnas-nexus?login=false)
   -  [[arXiv](https://arxiv.org/abs/2403.15281)] [[Replication Files](https://osf.io/4dahv/)] [[VoxDev](https://voxdev.org/topic/technology-innovation/ai-hiring-tools-exhibit-complex-gender-and-racial-biases)]
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w) (w. Zhengyang Bao)
   - **Nature Human Behaviour**, 2022, 6(4): 478-479.
