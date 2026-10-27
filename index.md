@@ -53,7 +53,7 @@ layout: homepage
 
 (3) Methods for inference and large-scale data
 - [Salient air pollution mobilizes bottom-up green engagement: Evidence from the world's largest green mobile program](https://doi.org/10.1093/pnasnexus/pgaf089) (w. Jiafu An, Jiawen Huang, Chen Lin)
-  - **PNAS Nexus**, 2026.
+  - **PNAS Nexus**, 2026+.
 - [Semiparametric single-index estimation for average treatment effects](https://doi.org/10.1080/07474938.2025.2457561) (w. Jiti Gao and Tatsushi Oka)
   - **Econometric Reviews**, 2025, 44(6): 843–885.
   -  [[arXiv](https://arxiv.org/abs/2206.08503)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)]
