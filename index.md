@@ -62,7 +62,7 @@ layout: homepage
   -  [[arXiv](https://arxiv.org/abs/2206.08503)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)]
 - [Estimating contagion mechanism in global equity market with time-zone effect](https://doi.org/10.1111/fima.12430) (w. Boyao Wu and Muzi Chen)
   - **Financial Management**, 2023, 52(3): 543–572.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596)] [[arXiv](https://arxiv.org/abs/2404.04335)]
+  - [[arXiv](https://arxiv.org/abs/2404.04335)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596)] 
 
 
 **Grants**
