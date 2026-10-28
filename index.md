@@ -58,6 +58,10 @@ layout: homepage
   - **Econometric Reviews**, 2025, 44(6): 843–885.
   - **Chapter 2 of my PhD thesis, Monash University**
   -  [[arXiv](https://arxiv.org/abs/2206.08503)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)]
+- [Estimating contagion mechanism in global equity market with time-zone effect](https://doi.org/10.1111/fima.12430) (w. Boyao Wu and Muzi Chen)
+  - **Financial Management**, 2023, 52(3): 543–572.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596)] [[arXiv](https://arxiv.org/abs/2404.04335)]
+
 
 **Grants**
 - Principal Investigator, National Natural Science Foundation of China, Excellent Young Scientists Fund, 01/2027-12/2029.
