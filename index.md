@@ -52,6 +52,8 @@ layout: homepage
   - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
 
 (3) Inference methods for complex and large-scale data
+- [Bitcoin price extremes and implications for financial regulation](https://doi.org/10.1016/j.fmre.2026.06.016) (w. Li Chen and Shouyang Wang)
+  - **Fundamental Research**, 2026+.
 - [Salient air pollution mobilizes bottom-up green engagement: Evidence from the world's largest green mobile program](https://doi.org/10.1093/pnasnexus/pgaf089) (w. Jiafu An, Jiawen Huang, Chen Lin)
   - **PNAS Nexus**, 2026+.
 - [Semiparametric single-index estimation for average treatment effects](https://doi.org/10.1080/07474938.2025.2457561) (w. Jiti Gao and Tatsushi Oka)
