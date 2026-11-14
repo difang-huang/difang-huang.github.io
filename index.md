@@ -58,7 +58,6 @@ layout: homepage
   - **PNAS Nexus**, 2026, 5(10), pgag326.
 - [Semiparametric single-index estimation for average treatment effects](https://doi.org/10.1080/07474938.2025.2457561) (w. Jiti Gao and Tatsushi Oka)
   - **Econometric Reviews**, 2025, 44(6): 843–885.
-  - **Based on the Chapter 2 of my PhD thesis, Monash University**
   -  [[arXiv](https://arxiv.org/abs/2206.08503)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)]
 - [Estimating contagion mechanism in global equity market with time-zone effect](https://doi.org/10.1111/fima.12430) (w. Boyao Wu and Muzi Chen)
   - **Financial Management**, 2023, 52(3): 543–572.
