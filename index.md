@@ -29,10 +29,6 @@ layout: homepage
   - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)]  [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina Article](http://voxchina.org/show-3-241.html)] [[VoxChina Video](https://www.bilibili.com/video/BV19W4y1E7wb/?share_source=copy_web&vd_source=6fe0b780aebbbf34e61336bcabb5353a)]
 
 (2) Human-algorithm interaction in decision-making
-- [“经济-社会-物理-信息”强耦合系统演化与治理]() (与杨晓光合作)
-  - **管理科学学报**, 2026+.
-- [信息-物理-社会系统与数智时代社会治理](https://doi.org/10.1360/SSI-2026-0207) (与蔡世民，郝俊，李建平，刘志新，吕琳媛，王芳，王重阳，杨晓光，朱欣怡合作)
-  - **中国科学：信息科学**, 2026+.
 - [A large-scale comparison of divergent creativity in humans and large language models](https://doi.org/10.1038/s41562-025-02331-1) (w. Haipeng Shen, Brian Uzzi, and Dawei Wang)
   - **Nature Human Behaviour**, 2026, 10(3), 531–540.
   - [[PsyArxiv](https://osf.io/preprints/psyarxiv/xeh64_v1)] [[Replication Files](https://osf.io/a9v2t/)]
@@ -50,6 +46,10 @@ layout: homepage
   - **Nature Human Behaviour**, 2022, 6(4): 478-479.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
   - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
+- [“经济-社会-物理-信息”强耦合系统演化与治理]() (与杨晓光合作)
+  - **管理科学学报**, 2026+.
+- [信息-物理-社会系统与数智时代社会治理](https://doi.org/10.1360/SSI-2026-0207) (与蔡世民，郝俊，李建平，刘志新，吕琳媛，王芳，王重阳，杨晓光，朱欣怡合作)
+  - **中国科学：信息科学**, 2026, 56(9): 2203.
 
 (3) Inference methods for complex and large-scale data
 - [Bitcoin price extremes and implications for financial regulation](https://doi.org/10.1016/j.fmre.2026.06.016) (w. Li Chen and Shouyang Wang)
